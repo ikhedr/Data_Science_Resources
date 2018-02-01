@@ -1,0 +1,42 @@
+Data Scientist
+
+Built something out of data
+
+=====Just build something with Data and expect to suck at it for a while
+
+Mathematics - VIMP
+	MIT Linear algebra open cource
+	MIT Calculus open cource
+	MIT stats and probability open cource
+
+Programming language - 
+	Python - do lots of general programming.. don't start as if u want it to use for machine learning directly
+
+- The Machien learning pipeline
+	Find Data(Webscrape, APIs, CSVs)
+	Clean the data(remove NaNs and infinities, should that be a string? probably not, maybe i can categorize it..)
+	Choose the tune your algorithm
+	Visualize results (imp)
+	GOOGLE AND STACK OVERFLOW ARE YOUR FRIENDS :))
+- scikit
+++++++++
+- Learn the math (1-2 months)
+- Learn programming lang
+- Machine learning tutorials and test projects
+- Short term passion projects (Farmarket.in mine)
+
+---------------------
+- You are gona fail. A lot. Dont worry. be prepared to fail.
+- Track ur projects on GitHub and write up your results
+
+
+Interview Tips
+www.interviewcake.com
+projecteuler.net
+- take home machine learning task (Practice with tree-based methods- random forest, gradient boosted trees)
+- "Whiteboard" coding(Focus on DS and Algo)
+- "Whiteboard" SQL  sqlzoo.net
+- Bays Theorem probability questions 
+- Machine learning evaluation matrics
+
+scikit, pandas, numpy
